@@ -3,7 +3,11 @@
     "serve": "webpack-dev-server"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@sasuseso/hello-wasm": "^0.1.4"
+=======
+    "@sasuseso/hello-wasm": "^0.1.2"
+>>>>>>> 580d6e13374ce6df1ce2c07a5cefd51bc7413bff
   },
   "devDependencies": {
     "loadash": "^1.0.0",
